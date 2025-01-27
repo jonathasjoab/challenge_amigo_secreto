@@ -1,7 +1,9 @@
 <h1 allign="center">Challenge Amigo Secreto</h1>
-Desafio proposto pela Alura, do programa Hello One G8 - Oracle para sorteio de um amigo.
+Desafio proposto pela Alura, do programa Hello One G8 - Oracle
 
-Linguagens utilizadas:
+<h2>Funcionalidade</h2>
+O projeto implica na inserção de nomes onde ao clicar no botão "Sortear Amigo Secreto", é apresentado um dos nomes adicionados.
+<h2>Linguagens utilizadas</h2>
 - `HTML`
 - `CSS`
 - `JavaScript`
