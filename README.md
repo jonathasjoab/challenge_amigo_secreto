@@ -7,7 +7,7 @@ Desafio proposto como parte do programa ONE (Oracle Next Education) em parceria 
 ---
 
 <h2>Funcionalidades</h2>
-<ol>Sorteio de amigo secreto</ol>
+- Sorteio de amigo secreto
 
 <h2>Tecnologias Utilizadas</h2>
 
