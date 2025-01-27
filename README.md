@@ -21,7 +21,7 @@ Desafio proposto como parte do programa ONE (Oracle Next Education) em parceria 
 
 # 📁 Acesso ao projeto
 
-Vocẽ pode clicar [aqui](https://challenge-amigo-secreto-oa8sovzny-jonathasjoabs-projects.vercel.app)para acessar o deploy do projeto.
+Vocẽ pode clicar [aqui](https://challenge-amigo-secreto-oa8sovzny-jonathasjoabs-projects.vercel.app) para acessar o deploy do projeto.
 
 
 
