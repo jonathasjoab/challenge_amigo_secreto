@@ -7,6 +7,7 @@ Desafio proposto como parte do programa ONE (Oracle Next Education) em parceria 
 ---
 
 <h2>Funcionalidades</h2>
+
 - Campo para inserção de nomes dos amigos, com o botão para adicionar.
 - Visualização dos nomes acrescentados.
 - Sorteio de amigo secreto.
