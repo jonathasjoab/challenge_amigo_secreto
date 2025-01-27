@@ -9,6 +9,8 @@ Desafio proposto como parte do programa ONE (Oracle Next Education) em parceria 
 <h2>Funcionalidades</h2>
 - Sorteio de amigo secreto
 
+---
+
 <h2>Tecnologias Utilizadas</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
